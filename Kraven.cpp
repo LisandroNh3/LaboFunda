@@ -7,7 +7,7 @@ int main()
     string quesoy = "";
 
 // Describiendo que es el sujeto
-    cout << "Que eres papu (malo, animal, persona)";
+    cout << "Que eres papu (malo, animal, persona)"; << endl;
     cin >> quesoy;
 
     //Dando diferentes finales por determinante del sujeto
